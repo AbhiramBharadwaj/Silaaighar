@@ -10,7 +10,7 @@ export function FashionPicks() {
           <p className="text-sm font-medium text-rose-600">Curated Looks</p>
           <h2 className="text-pretty text-2xl font-semibold md:text-3xl">Fashion Picks</h2>
           <p className="mt-1 text-sm text-muted-foreground">
-            Explore 4 handpicked styles. Swipe images inside each card. Tap enquiry to WhatsApp us directly.
+            Explore 4 handpicked styles. Swipe images inside each card.
           </p>
         </div>
         <Link

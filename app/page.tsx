@@ -4,7 +4,8 @@ import { Services } from "@/components/services"
 import { Testimonials } from "@/components/testimonials"
 import { EnquiryForm } from "@/components/enquiry-form"
 import { Footer } from "@/components/footer"
-import { FashionPicks } from "@/components/fashion-picks"
+import FashionPicks from "@/components/fashion-picks"
+
 
 export default function Home() {
   return (

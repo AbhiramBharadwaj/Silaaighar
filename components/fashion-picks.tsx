@@ -2,7 +2,7 @@ import Link from "next/link"
 import { fashionPicks } from "@/data/fashion-picks"
 import { ProductCard } from "./product-card"
 
-export function FashionPicks() {
+export default function FashionPicks() {
   return (
     <section id="fashion-picks" className="mx-auto w-full max-w-6xl px-4 py-16">
       <div className="mb-8 flex flex-col items-start justify-between gap-4 md:flex-row md:items-end">

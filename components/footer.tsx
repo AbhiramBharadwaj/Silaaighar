@@ -9,7 +9,7 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Scissors className="h-6 w-6 text-primary" />
-              <span className="font-serif text-xl font-bold text-primary">Stitch & Style</span>
+              <span className="font-serif text-xl font-bold text-primary">Silaaighar</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Professional tailoring services for busy working women. Perfect fit, perfect style, delivered to your

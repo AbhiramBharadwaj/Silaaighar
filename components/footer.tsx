@@ -98,11 +98,11 @@ export function Footer() {
             <div className="space-y-3 text-sm text-muted-foreground">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-primary flex-shrink-0" />
-                <span>+91 98765 43210</span>
+                <span>+91 7977707877</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary flex-shrink-0" />
-                <span>hello@stitchandstyle.com</span>
+                <span>www.silaaighar.com</span>
               </div>
               <div className="flex items-start space-x-2">
                 <MapPin className="h-4 w-4 text-primary flex-shrink-0 mt-0.5" />
@@ -114,7 +114,7 @@ export function Footer() {
 
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © 2024 Stitch & Style. All rights reserved. Made with ❤️ for busy women who deserve perfect fit.
+            © 2025 Silaaighar. All rights reserved. Made with ❤️ for busy women who deserve perfect fit.
           </p>
         </div>
       </div>
